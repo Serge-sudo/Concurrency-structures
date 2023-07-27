@@ -1,1 +1,1 @@
-# Concurrency-course-stuff
+# Concurrency-structures
